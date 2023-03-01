@@ -1,10 +1,10 @@
-package com.example.snippet;
+package com.satz.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SnippetApplicationTests {
+class SpringbootBlogRestApiApplicationTests {
 
 	@Test
 	void contextLoads() {
